@@ -1,0 +1,15 @@
+{
+  "name": "mastro",
+  "displayName": "Mastro",
+  "description": "Your clients' books in Claude: Mastro's review queue, reconciliations, and month-end close, signed in as you and under your firm's AI rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mastro",
+    "email": "support@mastroledger.com",
+    "url": "https://mastroledger.com"
+  },
+  "homepage": "https://mastroledger.com/claude",
+  "repository": "https://github.com/Mastro-Ledger/mastro-claude-plugin",
+  "license": "MIT",
+  "keywords": ["accounting", "bookkeeping", "cpa", "reconciliation", "month-end close"]
+}

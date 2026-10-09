@@ -1,0 +1,15 @@
+{
+  "name": "mastro",
+  "description": "Mastro's plugin for Claude: bookkeeping for CPA firms.",
+  "owner": {
+    "name": "Mastro",
+    "email": "support@mastroledger.com"
+  },
+  "plugins": [
+    {
+      "name": "mastro",
+      "source": "./",
+      "description": "Your clients' books in Claude: Mastro's review queue, reconciliations, and month-end close, signed in as you and under your firm's AI rules."
+    }
+  ]
+}

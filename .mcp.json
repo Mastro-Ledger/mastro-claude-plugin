@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mastro": {
+      "type": "http",
+      "url": "https://app.mastroledger.com/api/mcp"
+    }
+  }
+}
