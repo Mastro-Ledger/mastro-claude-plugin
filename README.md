@@ -19,12 +19,14 @@ Try:
 - "Go through the review queue and suggest a category for each bank line."
 - "Show me where the checking reconciliation stands."
 - "What's keeping August from closing?"
+- "Join my call."
 
 ## Skills
 
 - **review-queue**: categorizes a client's waiting bank and card lines, asks the client about the ones it can't tell, offers rules for repeats, and opens the review queue for you to approve.
 - **month-end-close**: finds what's keeping a month from closing, works through it, and opens the close for the firm's owners and admins.
 - **books-question**: answers a question about a client's books with real figures, and says where each one comes from.
+- **join-my-call**: joins the call you're on in Mastro as your Claude, in place of Mastro's own Claude once its monthly API credits are used up. It hears the call as it's said, sees a shared screen, and speaks up when it has something worth saying, until the call ends.
 
 The skills are instructions for Claude only. They run no code.
 
