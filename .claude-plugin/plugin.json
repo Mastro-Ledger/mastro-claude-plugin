@@ -11,5 +11,10 @@
   "homepage": "https://mastroledger.com/claude",
   "repository": "https://github.com/Mastro-Ledger/mastro-claude-plugin",
   "license": "MIT",
-  "keywords": ["accounting", "bookkeeping", "cpa", "reconciliation", "month-end close"]
+  "keywords": ["accounting", "bookkeeping", "cpa", "reconciliation", "month-end close"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://mastroledger.com/claude",
+  "supportUrl": "https://mastroledger.com/contact",
+  "privacyPolicyUrl": "https://mastroledger.com/privacy",
+  "termsOfServiceUrl": "https://mastroledger.com/terms"
 }
